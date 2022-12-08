@@ -36,7 +36,6 @@ main {
 
 button {
   text-transform: uppercase;
-  padding: 10px 0 0 10px;
 }
 
 .white {
@@ -71,7 +70,9 @@ button {
 .paragraph {
   padding-top: 20px;
 }
-
+.buttons {
+  padding: 10px 0px 0px 10px;
+}
 .best-price {
   text-transform: uppercase;
   margin-top: 20px;
